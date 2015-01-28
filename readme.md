@@ -4,7 +4,7 @@
 ### Release Date: November 13th, 2014
 # Spring PetClinic Sample Application
 
-Insert a comment.
+Insert a comment. Demo
 ## What does it look like?
 -spring-petclinic has been deployed here on cloudfoundry: http://demo-spring-petclinic.cfapps.io/
 
