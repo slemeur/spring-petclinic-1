@@ -13,6 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+Mini edit
+
+
 package org.springframework.samples.petclinic.model;
 
 import javax.persistence.Column;
